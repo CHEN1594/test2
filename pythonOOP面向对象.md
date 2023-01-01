@@ -4,7 +4,7 @@
 
 # 1初始化
 
-```python
+```Python
 #类的定义
 class Washer():
 	statement
